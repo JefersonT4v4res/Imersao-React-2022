@@ -1,0 +1,138 @@
+{
+    "name": "Jeferson Tavares (Jersin)",
+    "description": "Frontend Developer",
+    "gihub": "JefersonT4v4res",
+    "background": "https://media.licdn.com/dms/image/D4D16AQEjZn-mHohXGg/profile-displaybackgroundimage-shrink_350_1400/0/1674744448633?e=1687392000&v=beta&t=jbMNrCQJOWcS_VbQhTnz9YHUTrOfYIQDCpNjXgh-eP4",
+    "playlists": {
+        "Gameplay": [
+            {
+                "title": "Gameplay Ninja | Furto silencioso",
+                "url": "https://youtu.be/7BPzK9Kd3NM",
+                "thumb": "https://i9.ytimg.com/vi_webp/7BPzK9Kd3NM/mq2.webp?sqp=CLCth6IG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgYihNMA8=&rs=AOn4CLATB7qimqOil347itky8yydh0nVyg"
+            },
+            {
+                "title": "Gameplay Ninja",
+                "url": "https://youtu.be/pGxpFo32hXY",
+                "thumb": "https://i9.ytimg.com/vi_webp/pGxpFo32hXY/mq1.webp?sqp=CLCth6IG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGMgZShGMA8=&rs=AOn4CLBCgV-eru2wS3f8FzuVZgFCvnxS8g"
+            },
+            {
+                "title": "Estado De Quarentena",
+                "url": "https://youtu.be/WGDZnaofcNc",
+                "thumb": "https://i9.ytimg.com/vi_webp/WGDZnaofcNc/mq3.webp?sqp=CLCth6IG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgUSg6MA8=&rs=AOn4CLA_q7TDWDtIDGSoZolLOoNttmAsLg"
+
+            }
+        ],
+        "Esquetes": [
+            {
+                "title": "Profissional de TI",
+                "url": "https://youtu.be/qUpKCvlqmC4",
+                "thumb": "https://i9.ytimg.com/vi_webp/qUpKCvlqmC4/mq1.webp?sqp=CLCth6IG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXihXMA8=&rs=AOn4CLBoENs9wrNRI1D-N58tqec2UQxUxA"
+            },
+            {
+                "title": "Genshin dos Sete Mares",
+                "url": "https://youtu.be/63PQt9rhSGQ",
+                "thumb": "https://i9.ytimg.com/vi_webp/63PQt9rhSGQ/mq2.webp?sqp=CLCth6IG&rs=AOn4CLA6JLdkWfrW2robIiUAPwpYRlU0xQ"
+            },
+            {
+                "title": "She's gone, man.",
+                "url": "https://youtu.be/t4nk0c6mkGk",
+                "thumb": "https://i9.ytimg.com/vi_webp/t4nk0c6mkGk/mqdefault.webp?v=6292c86a&sqp=CLCth6IG&rs=AOn4CLCJ7grrgy1Ok2d1Z0TjnISpnSgQmQ"
+            }
+            
+        ],
+        "Apresentações": [
+            {
+                "title": "As diferenças na aplicação dos algoritmos BFS e DFS no desenvolvimento de jogos",
+                "url": "https://youtu.be/lJ8OwYEHtqU",
+                "thumb": "https://i9.ytimg.com/vi/lJ8OwYEHtqU/mqdefault.jpg?v=619f16c5&sqp=CLCth6IG&rs=AOn4CLDbgc2WBhAxLwGJUKShWGYCUTkgbA"
+            },
+            {
+                "title": "Apresentação do código do jogo em java - Computação gráfica (Unifacs)",
+                "url": "https://youtu.be/Fzx2t-PrDr4",
+                "thumb": "https://i9.ytimg.com/vi/Fzx2t-PrDr4/mq1.jpg?sqp=CLCth6IG-oaymwEmCMACELQB8quKqQMa8AEB-AH-DoACuAiKAgwIABABGEwgUihlMA8=&rs=AOn4CLBQI9m6OJFCxPWnMIwVSi-PlZNTPw"
+            },
+            {
+                "title": "NoSQL - Armazenamento Não Relacional",
+                "url": "https://youtu.be/KuoXx6Nr3uI",
+                "thumb": "https://i9.ytimg.com/vi_webp/KuoXx6Nr3uI/mq1.webp?sqp=CNyvh6IG&rs=AOn4CLA7mtxfJr6f2xts6pKhF03y_w0Jxg"
+            }
+        ],
+        "Favoritos": [
+            {
+                "title": "BIFE Revela seu Maior SEGREDO... | JOGANDOFODDACI ANIMADO",
+                "url": "https://youtu.be/iEiR8pTmKVI",
+                "thumb": "https://i.ytimg.com/vi/iEiR8pTmKVI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHKny0yMlQFMzDPZkXpx86c_9v0Q"
+            },
+            {
+                "title": "Jean paga pelos seus Pecados - jogandofoddaci",
+                "url": "https://youtu.be/tUg4Ic3lmrQ",
+                "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgTuc7ZNWVAwEMhzok4-feq7MPH53fsT8SI68BaiVSn7P7vpFzt1SPWtW0PZGkLQ7ERno&usqp=CAU"
+            },
+            {
+                "title": "Jean Cósmico - Belle Delphine Love Song feat. Gouzarte",
+                "url": "https://youtu.be/82Wc5XwzbAw",
+                "thumb": "https://i.ytimg.com/vi/82Wc5XwzbAw/maxresdefault.jpg"
+            },
+            {
+                "title": "Cuphead - jogandofoddaci",
+                "url": "https://youtu.be/wYstlWSK9lA",
+                "thumb": "https://i.ytimg.com/vi/wYstlWSK9lA/maxresdefault.jpg"
+            },
+            {
+                "title": "Batman o Wouyer da noite - jogandofoddaci",
+                "url": "https://youtu.be/pHA-0o-uMTU",
+                "thumb": "https://i.ytimg.com/vi/pHA-0o-uMTU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCOK5R68c3BjJKyhpD7gbujoup81w"
+            },
+            {
+                "title": "Caldo DeLa Penne, o Retorno - jogandofoddaci",
+                "url": "https://youtu.be/Dzbh5qtOHuU",
+                "thumb": "https://i.ytimg.com/vi/Dzbh5qtOHuU/maxresdefault.jpg"
+            },
+            {
+                "title": "Gênio da lâmpada - jogandofoddaci",
+                "url": "https://youtu.be/m1JQSJoL4I4",
+                "thumb": "https://i.ytimg.com/vi/m1JQSJoL4I4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBamHT0Ny0nfPZYDGGY-xsXYfYPBg"
+            },
+            {
+                "title": "Breaking bad mountain - jogandofoddaci",
+                "url": "https://youtu.be/LaxxNIl2j3E",
+                "thumb": "https://i.ytimg.com/vi/LaxxNIl2j3E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhU76McDs5wEAa-eiF7AZvAN3SaQ"
+            },
+            {
+                "title": "A vingança da Borboleta - jogandofoddaci",
+                "url": "https://youtu.be/maNpe6ygqRk",
+                "thumb": "https://i.ytimg.com/vi/maNpe6ygqRk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtXXQlGPCiST1jPJyeimxZWCdSjw"
+            },
+            {
+                "title": "Gemaplys no cabeleireiro - jogandofoddaci",
+                "url": "https://youtu.be/TID6hchawlY",
+                "thumb": "https://i.ytimg.com/vi/TID6hchawlY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYEX3RliSYElzC53waMwMZWLdXMQ"
+            }
+        ]
+        
+    },
+    "PerfisFavoritos": [
+        {
+            "avatar": "https://yt3.googleusercontent.com/ytc/AGIKgqPqmP2AOxLE6l1MhSB0E3w_l74OKR0M54LaVQUNoA=s176-c-k-c0x00ffffff-no-rj",
+            "nickname": "GEMAPLYS ",
+            "url": "https://youtube.com/@GEMAPLYS"
+        },
+        {
+            "avatar": "https://yt3.googleusercontent.com/ytc/AGIKgqNHChKV9SqX_P4saFuBbMj5rppNCzBxNMQYvtdg=s176-c-k-c0x00ffffff-no-rj",
+            "nickname": "jogandofoddaci ",
+            "url": "https://youtube.com/@jogandofoddaci"
+        },
+        {
+            "avatar": "https://yt3.googleusercontent.com/ytc/AGIKgqPZiiYxoTrYVgDlEWLr_33BCqnmaI73zILCheEJ=s176-c-k-c0x00ffffff-no-rj",
+            "nickname": "Jovem Nerd",
+            "url": "https://youtube.com/@JovemNerd"
+        },
+        {
+            "avatar": "https://yt3.googleusercontent.com/ytc/AGIKgqPoQaulpMGd1gioT2tnyzufHYLYIQiBPoHJzQ__mw=s176-c-k-c0x00ffffff-no-rj",
+            "nickname": "Canal PeeWee",
+            "url": "https://www.youtube.com/@CanalPeeWee"
+        }
+
+    ]
+
+}
