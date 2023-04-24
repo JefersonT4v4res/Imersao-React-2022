@@ -10,6 +10,8 @@ export const CSSReset = createGlobalStyle`
 body {
     font-family: sans-serif;
     overflow-x: hidden;
+    background-color: ${ ({theme}) => theme.backgroundBase};
+    color: ${ ({theme}) => theme.textColorBase};
 }
 
 /* NEXTJS */
@@ -34,7 +36,9 @@ a {
     opacity: 1;
     transition: .3s;
     &:hover,
-    &:focus {
+    &:focus,
+    &:active {
+        text-decoration: none;
         opacity: .5;
     }
 }

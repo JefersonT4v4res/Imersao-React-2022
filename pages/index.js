@@ -1,7 +1,7 @@
 import React from "react";
 import config from "../config.json";
 import styled from "styled-components";
-import { CSSReset } from "../src/components/CSSReset";
+
 import Menu from "../src/components/Menu";
 import { StyledTimeline } from "../src/components/Timeline";
 import Following from "../src/components/Following/Following";
@@ -12,7 +12,6 @@ function HomePage() {
   return (
     <div>
       <>
-      <CSSReset />
         <Menu valorDoFiltro={valorDoFiltro} setValorDoFiltro={setValorDoFiltro} ></Menu>
         <Header></Header>
         <TimeLine searchValue={valorDoFiltro} playlists={config.playlists} />
