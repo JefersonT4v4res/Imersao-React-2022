@@ -25,6 +25,8 @@ export default HomePage;
 
 
 const StyledHeader = styled.div`
+  background-color: ${ ({ theme }) => theme.backgroundLevel1 };
+
   img {
     width: 5rem;
     height: 5rem;
@@ -32,11 +34,15 @@ const StyledHeader = styled.div`
   }
   .user-info {
     display: flex;
+
     align-items: center;
     width: 100%;
     padding: 15px 32px;
     margin-top: 1rem;
     gap: 16px;
+    a {
+      color: ${ ({ theme }) => theme.textColorLink};
+    }
   }
 `
 
